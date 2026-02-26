@@ -171,11 +171,11 @@ See `data/README_data.md` for download instructions.
 ## Citation
 
 ```bibtex
-@article{ramesh2025it2,
+@article{ramesh2026it2,ramsha2026it2
   title   = {Bounded uncertainty propagation in normalised
              interval Type-2 fuzzy aggregation},
   author  = {Ramesh, Renikunta and Mehreen, Ramsha},
-  year    = {2025},
+  year    = {2026},
   institution = {Kakatiya Institute of Technology and Science, Warangal}
 }
 ```
