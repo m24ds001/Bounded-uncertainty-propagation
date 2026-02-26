@@ -4,7 +4,7 @@
 
 Official code repository for:
 
-> Ramesh, R. & Mehreen, R. (2025). *Bounded uncertainty propagation in normalised
+> Ramesh, R. & Mehreen, R. (2026). *Bounded uncertainty propagation in normalised
 > interval Type-2 fuzzy aggregation.* Kakatiya Institute of Technology and Science,
 > Warangal. Correspondence: rr.mh@kitsw.ac.in
 
